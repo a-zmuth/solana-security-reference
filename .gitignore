@@ -1,0 +1,17 @@
+# Anchor
+.anchor/
+target/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Rust
+Cargo.lock
+
+# OS
+.DS_Store
+Thumbs.db
